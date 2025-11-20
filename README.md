@@ -63,3 +63,15 @@ Latency distribution + failure rates
 Daily operating cost
 
 Scaling curve vs. trade volume
+
+🔮 Future Work
+
+Add sensitivity analysis
+
+Add multi-GPU scaling model
+
+Add batch inference optimization
+
+Extend simulation to cross-market replay workloads
+
+Compare A100 vs H100 vs MI300 compute curve

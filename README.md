@@ -1,7 +1,7 @@
 # Monte-Carlo-Simulation-of-Compute-Requirements-for-AI-Enabled-Market-Abuse-Detection
 B. A GitHub-ready README (so it looks like a real research project)
 A Research Project by Nitin Ranjan
-🧠 Overview
+
 
 This project models the compute requirements, GPU-hour consumption, latency distribution, and operating cost of an AI-enabled market abuse detection system deployed by regulators (SEC, FCA, ESMA).
 
@@ -31,7 +31,7 @@ Financial market microstructure
 
 Risk & surveillance systems
 
-🎯 Core Research Questions
+ Core Research Questions
 
 How many GPU-hours are required to run a full-day market abuse detection pipeline?
 
@@ -41,7 +41,7 @@ What is the probability of latency-based system failure during peak market perio
 
 What is the expected daily cost of running this system under realistic GPU pricing?
 
-📊 Simulation Design
+Simulation Design
 
 We generate 10,000 simulations with stochastic variables:
 
@@ -64,7 +64,7 @@ Daily operating cost
 
 Scaling curve vs. trade volume
 
-🔮 Future Work
+Future Work
 
 Add sensitivity analysis
 
